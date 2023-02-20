@@ -1,0 +1,8 @@
+{
+    "name": "apiato/news",
+    "description": "News Container for apiato.",
+    "type": "apiato-container",
+    "require": {
+        "jcobhams/newsapi": "^1.0"
+    }
+}

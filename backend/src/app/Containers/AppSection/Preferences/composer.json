@@ -1,0 +1,6 @@
+{
+    "name": "apiato/preferences",
+    "description": "Preferences Container for apiato.",
+    "require": {
+    }
+}
